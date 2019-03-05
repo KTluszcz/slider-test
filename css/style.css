@@ -41,6 +41,7 @@
    text-transform: uppercase;
    letter-spacing: 3px;
    text-align: center;
+   margin-bottom: 4px;
 }
 
 .slide p{
@@ -53,6 +54,7 @@
 
 .slide img{
    height: 120px;
+   margin-bottom: 2px;
 }
 
 .slide-content{
