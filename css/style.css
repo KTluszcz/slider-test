@@ -58,6 +58,7 @@
 }
 
 .slide-content{
+   padding-bottom: 40px;
    display: flex;
    flex-direction: column;
    align-items: center;
