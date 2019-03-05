@@ -1,0 +1,62 @@
+/* Reset */
+
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+/* Classes */
+
+.hidden{
+   display: none;
+}
+
+.container{
+   width: 1140px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+/* Slider */
+
+.slider{
+
+}
+
+.slide{
+   display: flex;
+   align-items: flex-end;
+   height: 540px;
+   background-size: cover;
+   background-position: center;
+   /* filter: brightness(50%); */
+   font-family: 'Poppins', sans-serif;
+}
+
+.slide h3{
+   font-size: 36px;
+   font-weight: 600;
+   color: #fff;
+   text-transform: uppercase;
+   letter-spacing: 3px;
+   text-align: center;
+}
+
+.slide p{
+   font-size: 20px;
+   font-weight: 400;
+   color: #fff;
+   text-align: center;
+
+}
+
+.slide img{
+   height: 120px;
+}
+
+.slide-content{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
